@@ -7,8 +7,7 @@ Web Developer | Digital Marketing | MySQL | Build Modern Web Applications
 <p align="center">
 I'm Imrul Kayes Riaz, a passionate developer who loves turning ideas into reality through code. 
 I enjoy working with web technologies, frontend/backend development, and learning new tools. 
-Currently exploring JavaScript, React, HTML, and CSS. Always learning something new, 
-from open source to software architecture. I love building clean, efficient, and user-focused applications.
+Currently exploring JavaScript, React, HTML, and CSS. Always learning something new.
 </p>
 
 ---
@@ -16,15 +15,15 @@ from open source to software architecture. I love building clean, efficient, and
 ### 🚀 About Me
 - 🔭 I’m currently working on **Dropshipping & Web Projects**
 - 💬 Ask me about **Web Development, MySQL, Python**
-- 📫 How to reach me: **imrulkayesriaz1375@gmail.com**
+- 📫 Email: **imrulkayesriaz1375@gmail.com**
 
 ---
 
 ### 🌐 Connect with me:
 <p align="left">
-<a href="#"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40"/></a>
-<a href="#"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height="30" width="40"/></a>
-<a href="#"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="30" width="40"/></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30"/></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height="30"/></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="30"/></a>
 </p>
 
 ---
@@ -70,14 +69,9 @@ from open source to software architecture. I love building clean, efficient, and
 
 ---
 
-### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=imrulkayesriaz&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrulkayesriaz&layout=compact&theme=tokyonight"/>
 </p>
 
----
-
-### 💬 Quote
-> Code is like humor. When you have to explain it, it’s bad.
